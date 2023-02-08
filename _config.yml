@@ -23,7 +23,7 @@ theme: jekyll-theme-chirpy
 theme_mode:   # [light|dark]
 
 # GitHub Pages Project sites
-url: 'https://sigorzav.github.io/'
+url: 'https://sigorzav.github.io'
 baseurl: ''
 
 # the layout language will use the default value of 'en'.
