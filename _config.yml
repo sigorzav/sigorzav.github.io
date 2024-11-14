@@ -1,7 +1,7 @@
 # The Site Configuration
 title: 시고르자브종
 tagline: Sigorzav DevLog
-description: 
+description:
 
 github:
   username: sigorzav
@@ -49,7 +49,7 @@ google_analytics:
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/img/profile/profile01.jpg"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
